@@ -2,4 +2,4 @@
 
 A birthday website made with love.
 
-Created by Tushar for Ishii.
+Created by Tushii for Ishii.
